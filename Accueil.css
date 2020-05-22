@@ -1,0 +1,54 @@
+.u-section-1 {background-image: none; margin-top: 0; margin-bottom: 0}
+.u-section-1 .u-sheet-1 {min-height: 364px}
+.u-section-1 .u-text-1 {font-size: 3.75rem; background-image: none; margin: 60px 45px 0}
+.u-section-1 .u-line-1 {width: 217px; height: 3px; transform-origin: left center 0; margin: 39px auto 0}
+.u-section-1 .u-text-2 {font-size: 1.4375rem; width: 814px; margin: 30px auto 0}
+.u-section-1 .u-line-2 {width: 912px; margin: 30px auto 39px 114px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-text-1 {width: 850px; margin-left: 0; margin-right: 0}
+.u-section-1 .u-line-2 {margin-left: 28px} }
+
+@media (max-width: 991px){ .u-section-1 .u-text-1 {width: 720px}
+.u-section-1 .u-text-2 {width: 720px}
+.u-section-1 .u-line-2 {width: 720px; margin-left: 0} }
+
+@media (max-width: 767px){ .u-section-1 .u-text-1 {width: 540px; font-size: 1.5}
+.u-section-1 .u-text-2 {width: 540px}
+.u-section-1 .u-line-2 {width: 540px} }
+
+@media (max-width: 575px){ .u-section-1 .u-text-1 {width: 340px}
+.u-section-1 .u-text-2 {width: 340px}
+.u-section-1 .u-line-2 {width: 340px} }.u-section-2 {background-image: none}
+.u-section-2 .u-sheet-1 {min-height: 1258px}
+.u-section-2 .u-text-1 {font-size: 1.4375rem; margin: 66px 0 0}
+.u-section-2 .u-layout-wrap-1 {pointer-events: auto; width: 1162px; margin: 44px auto 0 -11px}
+.u-section-2 .u-image-1 {min-height: 630px; pointer-events: auto; background-image: url("images/schmadynamismetouristique.PNG"); background-position: 50% 50%}
+.u-section-2 .u-container-layout-1 {padding: 30px 60px}
+.u-section-2 .u-icon-1 {height: 238px; width: 238px; background-image: none; margin: 88px auto 0 79px}
+.u-section-2 .u-text-2 {font-size: 1.5rem; margin: -206px 172px 0 437px}
+.u-section-2 .u-btn-1 {border-style: none; background-image: none; font-size: 1.25rem; font-weight: 700; margin: 41px 350px 60px auto; padding: 10px 44px 10px 43px} 
+
+@media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 481px}
+.u-section-2 .u-text-1 {margin-top: -333px}
+.u-section-2 .u-layout-wrap-1 {width: 940px; margin-top: 343px; margin-left: 0}
+.u-section-2 .u-image-1 {min-height: 486px}
+.u-section-2 .u-text-2 {margin-right: 160px; margin-left: 337px}
+.u-section-2 .u-btn-1 {margin-right: 150px} }
+
+@media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 367px}
+.u-section-2 .u-layout-wrap-1 {width: 720px}
+.u-section-2 .u-image-1 {min-height: 372px}
+.u-section-2 .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
+.u-section-2 .u-text-2 {margin-right: 123px; margin-left: 227px}
+.u-section-2 .u-btn-1 {margin-right: 0} }
+
+@media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 653px}
+.u-section-2 .u-layout-wrap-1 {width: 540px}
+.u-section-2 .u-image-1 {min-height: 279px}
+.u-section-2 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-text-2 {margin-right: 92px; margin-left: 137px} }
+
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 446px}
+.u-section-2 .u-layout-wrap-1 {width: 340px}
+.u-section-2 .u-image-1 {min-height: 176px}
+.u-section-2 .u-text-2 {margin-right: 58px; margin-left: 29px} }
