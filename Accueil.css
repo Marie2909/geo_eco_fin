@@ -20,11 +20,11 @@
 .u-section-2 .u-sheet-1 {min-height: 1258px}
 .u-section-2 .u-text-1 {font-size: 1.4375rem; margin: 66px 0 0}
 .u-section-2 .u-layout-wrap-1 {pointer-events: auto; width: 1162px; margin: 44px auto 0 -11px}
-.u-section-2 .u-image-1 {min-height: 630px; pointer-events: auto; background-image: url("images/schmadynamismetouristique.PNG"); background-position: 50% 50%}
+.u-section-2 .u-image-1 {min-height: 630px; pointer-events: auto; background-image: url("images/schmadynamismetouristique.PNG"); background-position: 50% 50%; animation-duration: 1000ms}
 .u-section-2 .u-container-layout-1 {padding: 30px 60px}
 .u-section-2 .u-icon-1 {height: 238px; width: 238px; background-image: none; margin: 88px auto 0 140px}
 .u-section-2 .u-text-2 {font-size: 1.5rem; margin: -206px 176px 0 433px}
-.u-section-2 .u-btn-1 {border-style: none; background-image: none; font-size: 1.25rem; font-weight: 700; margin: 38px 339px 0 auto; padding: 10px 44px 10px 43px}
+.u-section-2 .u-btn-1 {border-style: none; background-image: none; font-size: 1.25rem; font-weight: 700; animation-duration: 1000ms; margin: 38px 339px 0 auto; padding: 10px 44px 10px 43px}
 .u-section-2 .u-line-1 {width: 845px; height: 3px; transform-origin: left center 0; margin: 113px auto 44px} 
 
 @media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 481px}
@@ -106,7 +106,7 @@
 .u-section-4 .u-container-layout-1 {padding: 30px 35px 30px 30px}
 .u-section-4 .u-group-1 {width: 1074px; min-height: 465px; margin: 53px auto 0 -102px}
 .u-section-4 .u-container-layout-2 {padding: 30px}
-.u-section-4 .u-image-1 {width: 464px; height: 328px; margin: 0 auto 0 5px}
+.u-section-4 .u-image-1 {width: 464px; height: 328px; animation-duration: 1000ms; margin: 0 auto 0 5px}
 .u-section-4 .u-layout-cell-2 {min-height: 525px}
 .u-section-4 .u-container-layout-3 {padding: 30px 0 30px 30px}
 .u-section-4 .u-text-1 {font-weight: 700; margin: 80px auto 0 53px}
